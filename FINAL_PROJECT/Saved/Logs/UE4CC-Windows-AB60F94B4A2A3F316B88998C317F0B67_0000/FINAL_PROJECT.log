@@ -1,0 +1,1248 @@
+﻿Log file open, 08/01/17 17:32:31
+LogInit:Display: Running engine for game: FINAL_PROJECT
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-325019864) SRandInit(-325019863).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.598722
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.01-16.32.33:165][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.01-16.32.33:165][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.01-16.32.33:281][  0]LogInit: Computer: MAX-PC
+[2017.08.01-16.32.33:281][  0]LogInit: User: Max
+[2017.08.01-16.32.33:281][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.08.01-16.32.33:281][  0]LogInit: High frequency timer resolution =3.132197 MHz
+[2017.08.01-16.32.33:281][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2017.08.01-16.32.33:281][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.01-16.32.33:281][  0]LogMemory: Process Physical Memory: 266.97 MB used, 266.97 MB peak
+[2017.08.01-16.32.33:281][  0]LogMemory: Process Virtual Memory: 265.68 MB used, 265.68 MB peak
+[2017.08.01-16.32.33:281][  0]LogMemory: Physical Memory: 4333.53 MB used,  7945.58 MB free, 12279.11 MB total
+[2017.08.01-16.32.33:281][  0]LogMemory: Virtual Memory: 664.21 MB used,  7945.58 MB free, 8388608.00 MB total
+[2017.08.01-16.32.34:347][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.08.01-16.32.35:583][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.01-16.32.35:590][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7900 Series' (Feature Level 11_0)
+[2017.08.01-16.32.35:590][  0]LogD3D11RHI:       3051/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.08.01-16.32.35:590][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.01-16.32.35:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.01-16.32.35:595][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.08.01-16.32.35:595][  0]LogWindows: EnumDisplayDevices:
+[2017.08.01-16.32.35:595][  0]LogWindows:    0. 'AMD Radeon HD 7900 Series' (P:1 D:1)
+[2017.08.01-16.32.35:596][  0]LogWindows:    1. 'AMD Radeon HD 7900 Series' (P:0 D:1)
+[2017.08.01-16.32.35:596][  0]LogWindows:    2. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.08.01-16.32.35:596][  0]LogWindows:    3. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.08.01-16.32.35:597][  0]LogWindows:    4. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.08.01-16.32.35:597][  0]LogWindows:    5. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.08.01-16.32.35:597][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.08.01-16.32.35:597][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.08.01-16.32.35:597][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.08.01-16.32.35:598][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.08.01-16.32.35:598][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7900 Series
+[2017.08.01-16.32.35:598][  0]LogD3D11RHI:   Driver Version: Crimson 16.3.2 (internal:16.150.2211.0, unified:16.150.2211.0)
+[2017.08.01-16.32.35:598][  0]LogD3D11RHI:      Driver Date: 3-21-2016
+[2017.08.01-16.32.35:598][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.01-16.32.35:604][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.01-16.32.35:630][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.08.01-16.32.35:636][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Intermediate/Shaders/WorkingDirectory/11212/).
+[2017.08.01-16.32.35:637][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/B76368594BE0F40CC12CD5A3EF063ACE/'.
+[2017.08.01-16.32.35:637][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.08.01-16.32.37:759][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.01-16.32.37:859][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.08.01-16.32.38:003][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.01-16.32.38:147][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.08.01-16.32.38:345][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.08.01-16.32.38:439][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.01-16.32.38:584][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.01-16.32.38:727][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.01-16.32.38:860][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.08.01-16.32.39:079][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.08.01-16.32.39:222][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.01-16.32.39:366][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.01-16.32.39:510][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.01-16.32.39:654][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.01-16.32.39:801][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.01-16.32.40:080][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.01-16.32.40:080][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.01-16.32.40:199][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.08.01-16.32.40:455][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.08.01-16.32.40:512][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.08.01-16.32.40:628][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.01-16.32.40:771][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.01-16.32.40:915][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.01-16.32.41:109][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.08.01-16.32.41:110][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.08.01-16.32.43:065][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache: Loaded boot cache 0.38s 50MB C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.01-16.32.43:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.01-16.32.43:523][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.01-16.32.43:585][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.01-16.32.44:352][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.01-16.32.44:362][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.01-16.32.44:877][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.01-16.32.45:118][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.01-16.32.45:214][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.01-16.32.45:214][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.08.01-16.32.45:214][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.08.01-16.32.46:430][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: final_project, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3158915957
+[2017.08.01-16.32.46:518][  0]LogAssetRegistry: FAssetRegistry took 0.0200 seconds to start up
+[2017.08.01-16.32.47:022][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.470379 seconds
+[2017.08.01-16.32.47:073][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.08.01-16.32.47:073][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.08.01-16.32.47:073][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.01-16.32.47:184][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.01-16.32.49:843][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.01-16.32.49:845][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.01-16.32.49:845][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.01-16.32.52:130][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.01-16.32.52:231][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.01-16.32.53:347][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.01-16.32.54:328][  0]SourceControl: Info Source control is disabled
+[2017.08.01-16.32.55:351][  0]SourceControl: Info Source control is disabled
+[2017.08.01-16.32.55:518][  0]SourceControl: Info Source control is disabled
+[2017.08.01-16.32.55:616][  0]SourceControl: Info Source control is disabled
+[2017.08.01-16.32.59:603][  0]LogEngine: Initializing Engine...
+[2017.08.01-16.32.59:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.01-16.33.00:025][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.01-16.33.00:156][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.01-16.33.00:168][  0]LogInit: FAudioDevice initialized.
+[2017.08.01-16.33.00:438][  0]LogDerivedDataCache: Saved boot cache 0.27s 50MB C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.08.01-16.33.00:449][  0]LogInit: Texture streaming: Enabled
+[2017.08.01-16.33.01:106][  0]LogInit: Transaction tracking system initialized
+[2017.08.01-16.33.01:988][  0]BlueprintLog: New page: Editor Load
+[2017.08.01-16.33.04:969][  0]LocalizationService: Info Localization service is disabled
+[2017.08.01-16.33.06:926][  0]LogConsoleResponse:Display: 
+[2017.08.01-16.33.07:344][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.01-16.33.07:344][  0]LogCook:Display: Mobile HDR setting 1
+[2017.08.01-16.33.07:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/' took 0.01s
+[2017.08.01-16.33.10:105][  0]SourceControl: Info Source control is disabled
+[2017.08.01-16.33.10:106][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.01-16.33.10:109][  0]LightingResults: New page: Lighting Build
+[2017.08.01-16.33.10:231][  0]MapCheck: New page: Map Check
+[2017.08.01-16.33.10:231][  0]LightingResults: New page: Lighting Build
+[2017.08.01-16.33.10:612][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.08.01-16.33.10:614][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.08.01-16.33.10:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.01-16.33.10:663][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.01-16.33.10:744][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 80.931ms to complete.
+[2017.08.01-16.33.10:744][  0]LogFileHelpers: Loading map 'Template_Default' took 0.639
+[2017.08.01-16.33.10:986][  0]LogCollectionManager: Loaded 0 collections in 0.002503 seconds
+[2017.08.01-16.33.11:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Collections/' took 0.01s
+[2017.08.01-16.33.11:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Developers/Max/Collections/' took 0.01s
+[2017.08.01-16.33.11:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Collections/' took 0.01s
+[2017.08.01-16.33.11:211][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2017.08.01-16.33.11:226][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2190 classes and 428 folders.
+[2017.08.01-16.33.11:295][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.01-16.33.11:295][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.01-16.33.11:296][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.08.01-16.33.11:394][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.01-16.33.11:549][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.01-16.33.11:695][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.08.01-16.33.11:804][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.08.01-16.33.11:863][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.08.01-16.33.11:976][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.08.01-16.33.11:977][  0]LogLoad: (Engine Initialization) Total time: 44.53 seconds
+[2017.08.01-16.33.11:977][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.16 seconds
+[2017.08.01-16.33.11:977][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.08.01-16.33.11:977][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.08.01-16.33.12:366][  0]LogOcInput: OculusInput pre-init called
+[2017.08.01-16.33.12:390][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.01-16.33.12:612][  0]LogRenderer: Reallocating scene render targets to support 1264x536 NumSamples 1 (Frame:2).
+[2017.08.01-16.33.13:362][  2]LogAssetRegistry: Asset discovery search completed in 26.8642 seconds
+[2017.08.01-16.33.13:362][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.08.01-16.33.13:362][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.08.01-16.35.26:371][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.08.01-16.35.32:439][859]LogAIModule: Creating AISystem for world FMP_FInal_Level
+[2017.08.01-16.35.32:490][859]Cmd: MAP LOAD FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.01-16.35.32:491][859]LightingResults: New page: Lighting Build
+[2017.08.01-16.35.32:491][859]LoadErrors: New page: Loading map: FMP_FInal_Level.umap
+[2017.08.01-16.35.32:494][859]MapCheck: New page: Map Check
+[2017.08.01-16.35.32:494][859]LightingResults: New page: Lighting Build
+[2017.08.01-16.35.32:535][859]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.01-16.35.32:560][859]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.01-16.35.32:667][859]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 106.449ms to complete.
+[2017.08.01-16.35.32:668][859]LogFileHelpers: Loading map 'FMP_FInal_Level' took 0.179
+[2017.08.01-16.36.59:935][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_3)
+[2017.08.01-16.37.00:125][496]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-16.37.00:700][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.37.16:704][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_4)
+[2017.08.01-16.37.19:298][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_Roof3)
+[2017.08.01-16.37.34:387][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_1)
+[2017.08.01-16.37.44:717][212]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.37.50:016][651]Cmd: TRANSACTION UNDO
+[2017.08.01-16.37.50:016][651]LogEditorTransaction: Undo Clicking on Actors
+[2017.08.01-16.37.50:727][697]Cmd: TRANSACTION UNDO
+[2017.08.01-16.37.50:727][697]LogEditorTransaction: Undo Move Actors
+[2017.08.01-16.37.50:730][697]LogActorComponent: ~FComponentReregisterContext: (/Game/FMP_FInal_Level.FMP_FInal_Level:PersistentLevel.Bay_Window_FF3.StaticMeshComponent0) Component already registered.
+[2017.08.01-16.37.55:894][130]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.38.02:127][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_FF_2)
+[2017.08.01-16.38.02:457][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-16.38.04:267][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_3)
+[2017.08.01-16.38.07:616][ 76]Cmd: TRANSACTION UNDO
+[2017.08.01-16.38.07:616][ 76]LogEditorTransaction: Undo Move Actors
+[2017.08.01-16.38.07:618][ 76]LogActorComponent: ~FComponentReregisterContext: (/Game/FMP_FInal_Level.FMP_FInal_Level:PersistentLevel.Bay_Window_FF_4.StaticMeshComponent0) Component already registered.
+[2017.08.01-16.38.12:955][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.38.31:253][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (basement)
+[2017.08.01-16.38.39:236][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.38.50:619][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-16.38.56:289][803]LogRenderer: Reallocating scene render targets to support 1432x924 NumSamples 1 (Frame:15914).
+[2017.08.01-16.39.00:535][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Kit/basement" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/basement.uasset" SILENT=true
+[2017.08.01-16.39.00:795][149]LogSavePackage: Save=130.42ms
+[2017.08.01-16.39.00:795][149]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/basement487E9AA14F72717AB9ACBDA6C904C130.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/basement.uasset'
+[2017.08.01-16.39.00:896][149]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/basement.uasset
+[2017.08.01-16.45.45:039][230]LogSavePackage: Save=810.15ms
+[2017.08.01-16.45.45:039][230]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_Level_Auto172D2305F41C8825F2D5200A2446A40CA.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/FMP_FInal_Level_Auto1.umap'
+[2017.08.01-16.45.45:042][230]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/FMP_FInal_Level_Auto1.umap
+[2017.08.01-16.45.45:145][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FMP_FInal_Level' took 0.985
+[2017.08.01-16.45.45:145][230]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.985
+[2017.08.01-16.46.15:498][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roadway5)
+[2017.08.01-16.46.17:998][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMP_FInal_Level" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.01-16.46.18:988][560]LogSavePackage: Save=879.34ms
+[2017.08.01-16.46.18:988][560]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_Level4864D4A34499B8FD66DE9B931D732AC3.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap'
+[2017.08.01-16.46.18:992][560]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap
+[2017.08.01-19.00.42:803][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-19.01.27:857][ 22]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.27:983][ 22]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.27:997][ 22]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.28:024][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.08.01-19.01.28:030][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.08.01-19.01.28:037][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.08.01-19.01.28:045][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.08.01-19.01.31:034][271]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2017.08.01-19.01.31:034][271]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.01.31:034][271]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.01-19.01.35:011][706]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.35:025][706]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.35:051][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.08.01-19.01.36:937][890]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.36:951][890]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.36:974][890]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.08.01-19.01.37:948][968]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 45 instructions
+[2017.08.01-19.01.37:948][968]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.01.37:948][968]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.01-19.01.41:103][342]LogMaterialEditor: Applying material Wood_1_
+[2017.08.01-19.01.41:713][342]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.41:741][342]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.41:888][342]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.42:033][342]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.42:059][342]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.42:136][347]LogMaterialEditor: Saving and Compiling material Wood_1_
+[2017.08.01-19.01.44:475][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Wood/Wood_1_" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset" SILENT=true
+[2017.08.01-19.01.44:760][347]LogSavePackage: Save=186.20ms
+[2017.08.01-19.01.44:760][347]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Wood_1_BE2DAB5B4F37A66293929094F7866E26.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset'
+[2017.08.01-19.01.44:765][347]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset
+[2017.08.01-19.01.44:768][347]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 72 instructions
+[2017.08.01-19.01.44:768][347]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.01.44:768][347]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.01-19.01.53:465][388]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.53:479][388]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.53:950][425]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.53:968][425]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.55:139][522]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 45 instructions
+[2017.08.01-19.01.55:139][522]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.01.55:139][522]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.01-19.01.55:378][550]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.55:392][550]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.55:775][582]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.55:791][582]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.56:946][685]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2017.08.01-19.01.56:946][685]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.01.56:946][685]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.01-19.01.59:065][935]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.59:080][935]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.01.59:365][958]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.01.59:387][958]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.02.00:509][ 58]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 45 instructions
+[2017.08.01-19.02.00:509][ 58]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.02.00:509][ 58]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.08.01-19.02.02:745][322]LogMaterialEditor: Saving and Compiling material Wood_1_
+[2017.08.01-19.02.03:363][322]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.02.03:390][322]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.02.03:427][322]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.02.03:454][322]LogMaterial: Missing cached shader map for material Wood_1_, compiling. 
+[2017.08.01-19.02.03:476][322]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-19.02.06:008][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Wood/Wood_1_" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset" SILENT=true
+[2017.08.01-19.02.06:242][322]LogSavePackage: Save=137.80ms
+[2017.08.01-19.02.06:242][322]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Wood_1_55AE13774F68D73AB4FB6AAF40E5944F.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset'
+[2017.08.01-19.02.06:247][322]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Wood/Wood_1_.uasset
+[2017.08.01-19.02.06:251][322]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 72 instructions
+[2017.08.01-19.02.06:251][322]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.08.01-19.02.06:251][322]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.01-19.02.27:624][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMP_FInal_Level" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.01-19.02.28:526][525]LogSavePackage: Save=788.10ms
+[2017.08.01-19.02.28:526][525]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_Level01C610A04125B920FE9B3F9C13F7735E.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap'
+[2017.08.01-19.02.28:529][525]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap
+[2017.08.01-19.02.29:181][584]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.01-19.02.29:195][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.01-19.02.29:196][584]PIE: New page: PIE session: FMP_FInal_Level (1 Aug 2017 21:02:29)
+[2017.08.01-19.02.29:196][584]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FMP_FInal_Level
+[2017.08.01-19.02.29:217][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021469s)
+[2017.08.01-19.02.29:218][584]LogAIModule: Creating AISystem for world FMP_FInal_Level
+[2017.08.01-19.02.29:218][584]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2017.08.01-19.02.29:219][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FMP_FInal_Level.FMP_FInal_Level to /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level (0.022819s)
+[2017.08.01-19.02.29:244][584]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.01-19.02.29:252][584]LogInit: FAudioDevice initialized.
+[2017.08.01-19.02.29:302][584]LogLoad: Game class is 'GameModeBase'
+[2017.08.01-19.02.29:317][584]LogWorld: Bringing World /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level up for play (max tick rate 0) at 2017.08.01-20.02.29
+[2017.08.01-19.02.29:318][584]LogWorld: Bringing up level for play took: 0.014482
+[2017.08.01-19.02.29:385][584]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.08.01-19.02.29:388][584]PIE: Info Play in editor start time for /Game/UEDPIE_0_FMP_FInal_Level 0.577
+[2017.08.01-19.02.34:100][112]LogEditorViewport: Clicking on Actor (LMB): StreetLights_C (StreetLights)
+[2017.08.01-19.02.41:160][754]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.08.01-19.02.58:960][768]BlueprintLog: New page: Compile StreetLights
+[2017.08.01-19.02.59:783][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StreetLights" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Blueprints/StreetLights.uasset" SILENT=true
+[2017.08.01-19.03.00:100][802]LogSavePackage: Save=192.79ms
+[2017.08.01-19.03.00:100][802]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/StreetLightsD3A8EEAB46E467B7A76C328B902770C7.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Blueprints/StreetLights.uasset'
+[2017.08.01-19.03.00:105][802]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Blueprints/StreetLights.uasset
+[2017.08.01-19.03.02:831][ 68]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.01-19.03.02:848][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.01-19.03.02:848][ 68]PIE: New page: PIE session: FMP_FInal_Level (1 Aug 2017 21:03:02)
+[2017.08.01-19.03.02:849][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FMP_FInal_Level
+[2017.08.01-19.03.02:870][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021218s)
+[2017.08.01-19.03.02:870][ 68]LogAIModule: Creating AISystem for world FMP_FInal_Level
+[2017.08.01-19.03.02:871][ 68]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2017.08.01-19.03.02:871][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FMP_FInal_Level.FMP_FInal_Level to /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level (0.022206s)
+[2017.08.01-19.03.02:897][ 68]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.01-19.03.02:904][ 68]LogInit: FAudioDevice initialized.
+[2017.08.01-19.03.02:935][ 68]LogLoad: Game class is 'GameModeBase'
+[2017.08.01-19.03.02:950][ 68]LogWorld: Bringing World /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level up for play (max tick rate 0) at 2017.08.01-20.03.02
+[2017.08.01-19.03.02:951][ 68]LogWorld: Bringing up level for play took: 0.014338
+[2017.08.01-19.03.02:952][ 68]PIE: Info Play in editor start time for /Game/UEDPIE_0_FMP_FInal_Level 0.141
+[2017.08.01-20.13.19:085][809]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.13.19:160][809]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.13.19:174][809]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.13.19:204][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.08.01-20.13.19:209][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.13.20:457][910]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.13.20:457][910]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.13.20:458][910]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.00:056][154]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.00:069][154]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.01:229][278]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.01:229][278]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.01:229][278]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.02:436][420]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.02:449][420]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.03:351][508]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.03:351][508]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.03:351][508]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.14:404][834]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.14:417][834]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.15:322][928]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.15:322][928]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.15:322][928]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.19:141][386]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.19:154][386]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.20:059][478]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.20:059][478]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.20:059][478]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.21:645][667]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.21:658][667]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.22:525][746]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.22:525][746]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.22:525][746]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.29:753][608]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.29:767][608]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.29:795][608]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.30:002][623]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.30:020][623]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.30:045][623]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.31:044][721]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.31:044][721]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.31:044][721]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.33:473][ 12]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.33:486][ 12]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.33:514][ 12]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.34:438][ 98]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.34:438][ 98]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.34:438][ 98]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.36:966][401]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.36:979][401]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.37:005][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.37:964][489]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.37:964][489]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.37:964][489]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.38:311][529]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.38:324][529]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.38:348][529]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.39:139][603]Cmd: TRANSACTION UNDO
+[2017.08.01-20.19.39:139][603]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.08.01-20.19.39:145][603]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.39:178][603]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.39:199][603]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.39:226][603]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.40:218][677]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.40:218][677]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.40:218][677]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.40:702][735]Cmd: TRANSACTION UNDO
+[2017.08.01-20.19.40:702][735]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.08.01-20.19.40:705][735]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.40:720][735]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.40:733][735]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.40:760][735]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.41:673][821]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.41:673][821]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.41:673][821]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.42:197][884]Cmd: TRANSACTION UNDO
+[2017.08.01-20.19.42:197][884]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.08.01-20.19.42:200][884]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.42:216][884]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.42:229][884]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.42:254][884]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.42:809][931]Cmd: TRANSACTION UNDO
+[2017.08.01-20.19.42:809][931]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.08.01-20.19.42:817][931]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.42:845][931]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.42:863][931]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.42:891][931]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.43:744][  7]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.43:744][  7]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.43:744][  7]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.43:883][ 23]Cmd: TRANSACTION UNDO
+[2017.08.01-20.19.43:883][ 23]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.08.01-20.19.43:886][ 23]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.43:901][ 23]LogMaterial: Missing cached shader map for material Emissive, compiling. 
+[2017.08.01-20.19.43:915][ 23]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.19.43:943][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.19.44:784][ 99]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.19.44:784][ 99]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.19.44:784][ 99]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.19.51:456][714]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.19.52:965][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bunting_Wide)
+[2017.08.01-20.19.57:443][368]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.20.32:725][702]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.08.01-20.20.32:799][702]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.08.01-20.20.32:813][702]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.01-20.20.32:837][702]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.08.01-20.20.32:843][702]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.01-20.20.34:041][800]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.01-20.20.34:041][800]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.01-20.20.34:041][800]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.01-20.21.02:055][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.21.02:983][216]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.21.03:701][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blank_wall_narrow)
+[2017.08.01-20.21.04:126][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_2)
+[2017.08.01-20.21.05:124][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.21.06:534][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_Roof4)
+[2017.08.01-20.21.08:198][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_)
+[2017.08.01-20.21.31:437][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Kit/Chimney_MK_II" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_II.uasset" SILENT=true
+[2017.08.01-20.21.31:665][303]LogSavePackage: Save=126.71ms
+[2017.08.01-20.21.31:665][303]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Chimney_MK_II8DA750B8494238E7D1577BA9F0C052AD.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_II.uasset'
+[2017.08.01-20.21.31:670][303]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_II.uasset
+[2017.08.01-20.21.39:852][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Kit/Chimney_MK_I" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_I.uasset" SILENT=true
+[2017.08.01-20.21.40:079][769]LogSavePackage: Save=126.42ms
+[2017.08.01-20.21.40:079][769]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Chimney_MK_IC7B357C447B839896DED50AB72DEFAEE.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_I.uasset'
+[2017.08.01-20.21.40:083][769]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Chimney_MK_I.uasset
+[2017.08.01-20.21.47:532][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.21.48:439][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.21.53:675][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_4)
+[2017.08.01-20.22.51:100][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.23.18:430][904]LogSavePackage: Save=126.83ms
+[2017.08.01-20.23.18:430][904]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Door_with_angled_step_left9E3F9012444A2633756F06B7EB3DA7F8.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Door_with_angled_step_left.uasset'
+[2017.08.01-20.23.18:434][904]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Modular_Kit/Door_with_angled_step_left.uasset
+[2017.08.01-20.23.19:992][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.23.22:036][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_with_angled_step_left2)
+[2017.08.01-20.23.22:169][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.23.24:122][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_4)
+[2017.08.01-20.23.25:304][462]Cmd: SELECT NONE
+[2017.08.01-20.23.29:575][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_with_angled_step_left2)
+[2017.08.01-20.23.30:248][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_6)
+[2017.08.01-20.23.31:387][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_with_angled_step_left2)
+[2017.08.01-20.23.31:952][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_6)
+[2017.08.01-20.23.34:243][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_4)
+[2017.08.01-20.23.51:720][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.23.53:305][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Pavement49)
+[2017.08.01-20.23.59:750][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.24.05:656][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_6)
+[2017.08.01-20.24.06:475][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.24.08:173][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Pavement49)
+[2017.08.01-20.24.09:264][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Pavement49)
+[2017.08.01-20.24.09:810][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Pavement107)
+[2017.08.01-20.24.11:503][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.24.16:768][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_7)
+[2017.08.01-20.24.17:229][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.24.19:626][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.24.33:525][393]Cmd: TRANSACTION UNDO
+[2017.08.01-20.24.33:525][393]LogEditorTransaction: Undo Move Actors
+[2017.08.01-20.24.34:940][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_centre2)
+[2017.08.01-20.24.35:358][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.24.37:380][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_right2)
+[2017.08.01-20.24.45:891][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_centre2)
+[2017.08.01-20.25.01:993][801]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.25.15:134][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_left2)
+[2017.08.01-20.25.20:604][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_bars_thin2)
+[2017.08.01-20.25.25:050][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_right4)
+[2017.08.01-20.25.34:838][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_centre4)
+[2017.08.01-20.25.44:632][461]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.25.47:598][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Thin_Window_blank3)
+[2017.08.01-20.25.48:034][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_left4)
+[2017.08.01-20.25.51:705][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_bars_thin4)
+[2017.08.01-20.25.55:298][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_bars_thin6)
+[2017.08.01-20.26.03:225][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_bars_thin3)
+[2017.08.01-20.26.08:474][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_FF_3)
+[2017.08.01-20.26.09:254][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_left3)
+[2017.08.01-20.26.15:407][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_right3)
+[2017.08.01-20.26.15:945][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Thin_Window_blank)
+[2017.08.01-20.26.16:860][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bay_Window_FF_3)
+[2017.08.01-20.26.17:313][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_right3)
+[2017.08.01-20.26.29:010][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_centre3)
+[2017.08.01-20.26.34:645][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_bars_thin)
+[2017.08.01-20.26.40:186][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.08.01-20.26.46:203][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_centre)
+[2017.08.01-20.26.51:751][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_left)
+[2017.08.01-20.26.57:037][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bay_window_bar_right)
+[2017.08.01-20.27.10:353][772]Cmd: TRANSACTION UNDO
+[2017.08.01-20.27.10:353][772]LogEditorTransaction: Undo Move Actors
+[2017.08.01-20.27.15:302][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blank_wall_narrow)
+[2017.08.01-20.27.17:004][339]Cmd: MODE ROTGRID=0
+[2017.08.01-20.27.17:577][387]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.27.30:172][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMP_FInal_Level" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.01-20.27.31:175][462]LogSavePackage: Save=883.78ms
+[2017.08.01-20.27.31:175][462]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_LevelB19AEF1F4BC00822FA5F31B3ECD28849.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap'
+[2017.08.01-20.27.31:180][462]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap
+[2017.08.01-20.27.37:522][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMP_FInal_Level" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.01-20.27.38:411][985]LogSavePackage: Save=775.55ms
+[2017.08.01-20.27.38:412][985]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_Level208AA7CD4A3BEB51B0B935850C28F17E.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap'
+[2017.08.01-20.27.38:415][985]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap
+[2017.08.01-20.27.39:893][ 95]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.01-20.27.39:906][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.01-20.27.39:906][ 95]PIE: New page: PIE session: FMP_FInal_Level (1 Aug 2017 22:27:39)
+[2017.08.01-20.27.39:906][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FMP_FInal_Level
+[2017.08.01-20.27.39:928][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021328s)
+[2017.08.01-20.27.39:928][ 95]LogAIModule: Creating AISystem for world FMP_FInal_Level
+[2017.08.01-20.27.39:928][ 95]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2017.08.01-20.27.39:929][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FMP_FInal_Level.FMP_FInal_Level to /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level (0.022295s)
+[2017.08.01-20.27.39:954][ 95]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.08.01-20.27.39:962][ 95]LogInit: FAudioDevice initialized.
+[2017.08.01-20.27.39:991][ 95]LogLoad: Game class is 'GameModeBase'
+[2017.08.01-20.27.40:006][ 95]LogWorld: Bringing World /Game/UEDPIE_0_FMP_FInal_Level.FMP_FInal_Level up for play (max tick rate 0) at 2017.08.01-21.27.40
+[2017.08.01-20.27.40:006][ 95]LogWorld: Bringing up level for play took: 0.014088
+[2017.08.01-20.27.40:008][ 95]PIE: Info Play in editor start time for /Game/UEDPIE_0_FMP_FInal_Level 1.042
+[2017.08.01-20.27.42:165][298]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.08.01-20.27.43:018][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.27.48:856][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.27.49:443][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Double_windows2)
+[2017.08.01-20.27.57:142][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chimney_MK_II3)
+[2017.08.01-20.27.59:682][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.08.01-20.28.02:615][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_5)
+[2017.08.01-20.28.04:321][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopfront_3)
+[2017.08.01-20.28.05:675][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chimney_MK_II3)
+[2017.08.01-20.28.07:205][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMP_FInal_Level" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.08.01-20.28.08:112][433]LogSavePackage: Save=794.92ms
+[2017.08.01-20.28.08:112][433]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/FMP_FInal_Level63E0E293410B615130D98F986A07BC25.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap'
+[2017.08.01-20.28.08:117][433]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/FMP_FInal_Level.umap
+[2017.08.02-10.15.04:692][359]LogMaterial: Missing cached shader map for material Plastic_1, compiling. 
+[2017.08.02-10.15.04:767][359]LogMaterial: Missing cached shader map for material Plastic_1, compiling. 
+[2017.08.02-10.15.04:780][359]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.15.06:019][406]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.15.06:019][406]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.15.06:019][406]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.15.40:746][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FMP_FInal_Level' took 0.015
+[2017.08.02-10.15.40:830][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Plastics/Plastic_1] ([1] browsable assets)...
+[2017.08.02-10.15.40:854][223]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Plastics/Plastic_1.Plastic_1]
+[2017.08.02-10.15.40:854][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Plastics/Plastic_1]
+[2017.08.02-10.15.41:183][223]LogSavePackage: Save=277.76ms
+[2017.08.02-10.15.41:183][223]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Plastic_1_Auto2F00BA7FC45C12E35612A099594F8C2E2.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Auto2.uasset'
+[2017.08.02-10.15.41:187][223]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Auto2.uasset
+[2017.08.02-10.15.41:187][223]LogFileHelpers: Auto-saving content packages took 0.440
+[2017.08.02-10.28.20:045][705]LogAssetTools:Warning: Failed to delete '/Game/Materials/Plastics/Plastic_1'. The asset is referenced by other content.
+[2017.08.02-10.28.20:047][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Max/Pictures/FMP/Materials/Plastic/Plastic_1_Normal.jpg)
+[2017.08.02-10.28.20:132][705]LogTexture:Display: Building textures: Plastic_1_Normal (BGRA8)
+[2017.08.02-10.28.23:313][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FMP_FInal_Level' took 0.014
+[2017.08.02-10.28.23:315][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Plastics/Plastic_1_Normal] ([1] browsable assets)...
+[2017.08.02-10.28.23:324][894]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Plastics/Plastic_1_Normal.Plastic_1_Normal]
+[2017.08.02-10.28.23:324][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Plastics/Plastic_1_Normal]
+[2017.08.02-10.28.23:498][894]LogSavePackage: Save=121.53ms
+[2017.08.02-10.28.23:498][894]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Plastic_1_Normal_Auto3818E15274872CF82217A31A3CEF5D55C.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Normal_Auto3.uasset'
+[2017.08.02-10.28.23:500][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Normal_Auto3.uasset
+[2017.08.02-10.28.23:500][894]LogFileHelpers: Auto-saving content packages took 0.187
+[2017.08.02-10.28.30:511][227]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Max/Pictures/FMP/Materials/Plastic/Plastic_1.jpg)
+[2017.08.02-10.28.30:524][227]LogTexture:Display: Building textures: Plastic_1 (BGRA8)
+[2017.08.02-10.28.44:260][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Plastics/Plastic_1_" FILE="../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Plastics/Plastic_1_.uasset" SILENT=true
+[2017.08.02-10.28.44:428][664]LogSavePackage: Save=115.60ms
+[2017.08.02-10.28.44:428][664]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Plastic_1_99B53750468C41ECCD406295558D4808.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Plastics/Plastic_1_.uasset'
+[2017.08.02-10.28.44:432][664]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Content/Materials/Plastics/Plastic_1_.uasset
+[2017.08.02-10.38.24:147][559]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FMP_FInal_Level' took 0.016
+[2017.08.02-10.38.24:149][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Plastics/Plastic_1] ([1] browsable assets)...
+[2017.08.02-10.38.24:159][559]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Plastics/Plastic_1.Plastic_1]
+[2017.08.02-10.38.24:159][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Plastics/Plastic_1]
+[2017.08.02-10.38.24:369][559]LogSavePackage: Save=158.92ms
+[2017.08.02-10.38.24:369][559]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Plastic_1_Auto4CF0EDBB04E398B286EDC56B8BE3754D1.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Auto4.uasset'
+[2017.08.02-10.38.24:371][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/Plastic_1_Auto4.uasset
+[2017.08.02-10.38.24:574][559]LogSavePackage: Save=150.49ms
+[2017.08.02-10.38.24:574][559]LogSavePackage: Moving '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/NewMaterial_Auto4D06062F1423A81D6D64AC4866B11D869.tmp' to '../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/NewMaterial_Auto4.uasset'
+[2017.08.02-10.38.24:575][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Max/Documents/Unreal Projects/FINAL_PROJECT/Saved/Autosaves/Game/Materials/Plastics/NewMaterial_Auto4.uasset
+[2017.08.02-10.38.24:576][559]LogFileHelpers: Auto-saving content packages took 0.428
+[2017.08.02-10.39.24:147][819]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.39.24:239][819]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.39.24:253][819]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.39.25:534][870]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.39.25:534][870]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.39.25:534][870]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.39.42:084][776]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.39.42:097][776]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.39.43:039][818]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.39.43:039][818]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.39.43:039][818]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.39.43:433][846]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.39.43:446][846]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.39.50:779][363]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.39.50:792][363]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.39.51:710][404]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.39.51:710][404]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.39.51:710][404]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.40.21:351][674]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.40.21:365][674]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.40.21:366][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.40.21:369][674]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.40.21:382][674]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.40.21:410][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.40.23:326][775]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.40.23:326][775]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.40.23:326][775]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.40.27:397][ 25]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.02-10.40.41:401][965]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.40.41:414][965]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.40.41:517][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.40.42:273][993]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.40.42:273][993]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.40.42:273][993]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.41.08:307][580]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.41.08:311][580]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.08:326][580]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.08:339][580]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.08:375][580]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.41.09:587][623]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.41.09:587][623]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.09:587][623]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.41.21:728][407]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.21:741][407]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.21:744][407]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.21:758][407]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.21:783][407]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.41.22:785][441]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.08.02-10.41.22:785][441]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.22:785][441]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.08.02-10.41.25:156][599]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.25:169][599]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.26:115][634]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 34 instructions
+[2017.08.02-10.41.26:115][634]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.26:115][634]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.35:126][242]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.35:140][242]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.36:021][275]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 34 instructions
+[2017.08.02-10.41.36:021][275]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.36:021][275]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.37:952][406]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.37:965][406]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.39:560][490]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.39:560][490]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.39:560][490]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.41:647][624]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.41:660][624]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.42:636][663]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.42:636][663]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.42:636][663]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.42:883][679]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.42:896][679]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.43:866][718]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.43:866][718]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.43:866][718]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.44:389][750]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.44:402][750]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.45:066][771]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.45:082][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.46:116][810]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.46:116][810]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.46:116][810]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.51:759][182]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.51:773][182]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.52:708][215]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.52:708][215]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.52:708][215]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.55:340][383]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.55:354][383]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.56:265][417]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.41.56:265][417]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.41.56:265][417]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.41.58:040][535]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.58:054][535]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.41.59:708][621]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.41.59:721][621]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.00:776][661]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.42.00:776][661]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.42.00:776][661]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.42.40:924][258]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.42.40:937][258]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.40:939][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.08.02-10.42.42:208][308]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.42.42:208][308]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.42.42:208][308]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.42.42:560][329]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.42.42:573][329]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.48:178][667]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.42.48:192][667]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.48:193][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.42.51:878][887]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.42.51:878][887]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.42.51:878][887]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.42.57:646][247]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.42.57:659][247]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.57:662][247]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.42.57:675][247]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.42.58:654][286]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.42.58:654][286]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.42.58:654][286]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.02:668][544]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.02:682][544]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.02:707][544]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.43.03:631][578]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.03:631][578]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.03:631][578]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.23:162][769]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.23:175][769]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.23:202][769]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.43.24:180][802]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.24:180][802]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.24:180][802]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.30:664][184]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.30:665][184]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.43.30:665][184]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.43.30:665][184]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.30:690][184]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.43.30:694][184]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.43.33:395][344]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.43.33:399][344]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.33:421][344]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.33:435][344]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.33:481][344]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.43.34:678][382]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.34:678][382]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.34:678][382]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.41:239][787]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.41:252][787]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.41:275][787]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.43.42:335][823]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.42:335][823]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.42:335][823]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.50:454][324]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.50:467][324]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.51:387][356]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.51:387][356]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.51:387][356]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.53:487][489]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.53:500][489]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.53:525][489]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.43.54:490][524]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.54:490][524]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.54:490][524]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.56:422][642]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.56:435][642]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.57:391][676]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.57:391][676]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.57:391][676]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.43.58:528][745]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.43.58:541][745]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.43.59:513][779]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.43.59:514][779]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.43.59:514][779]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.07:167][235]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.07:180][235]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.08:107][268]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.08:107][268]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.08:107][268]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.10:051][389]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.10:066][389]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.10:075][389]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.10:092][389]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.11:316][432]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.11:316][432]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.11:316][432]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.15:704][698]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.15:717][698]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.16:713][735]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.16:713][735]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.16:713][735]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.25:281][253]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.25:294][253]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.26:215][287]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.26:215][287]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.26:215][287]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.28:599][435]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.28:612][435]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.29:779][485]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.29:780][485]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.29:780][485]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.40:328][112]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.40:363][112]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.40:382][112]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.42:412][185]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.44.42:412][185]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.44.42:412][185]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.44.42:412][185]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.44.44:136][290]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.44:154][290]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.44:167][290]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.45:146][327]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.45:147][327]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.45:147][327]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.48:725][547]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.48:748][547]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.48:765][547]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.51:299][662]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.51:299][662]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.44.51:299][662]LogMaterial:Warning: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2017.08.02-10.44.51:299][662]LogMaterial:Warning: 	Separate translucency with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2017.08.02-10.44.51:305][662]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.51:305][662]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.44.51:305][662]LogMaterial:Warning: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2017.08.02-10.44.51:305][662]LogMaterial:Warning: 	Separate translucency with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2017.08.02-10.44.51:305][662]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.51:307][662]MaterialEditorStats:Error: Error [SM5] Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2017.08.02-10.44.51:307][662]MaterialEditorStats:Error: Error [SM5] Separate translucency with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2017.08.02-10.44.53:680][803]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.53:698][803]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.53:711][803]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.44.54:667][837]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 35 instructions
+[2017.08.02-10.44.54:667][837]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.08.02-10.44.54:667][837]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.08.02-10.44.59:839][979]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.59:862][979]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.44.59:879][979]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.01:754][ 49]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.01:754][ 49]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.01:755][ 49]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.01:755][ 49]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.23:869][981]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.23:886][981]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.27:194][148]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.27:194][148]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.27:194][148]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.27:194][148]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.29:963][322]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.29:980][322]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.30:007][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.45.31:921][394]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.31:921][394]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.31:921][394]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.31:921][394]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.34:817][574]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.34:834][574]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.37:006][665]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.37:006][665]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.37:006][665]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.37:006][665]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.39:648][828]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.39:665][828]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.40:645][863]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.40:677][863]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.40:680][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.08.02-10.45.41:959][910]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.41:986][910]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.42:727][933]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.42:749][933]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.45:989][ 93]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.46:006][ 93]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.47:962][170]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.47:962][170]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.47:962][170]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.47:962][170]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.48:577][207]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.48:594][207]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.50:460][279]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.50:460][279]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.50:460][279]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.50:460][279]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.45.54:254][513]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.54:272][513]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.54:275][513]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.45.54:292][513]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.45.56:624][615]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.45.56:624][615]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.45.56:624][615]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.45.56:624][615]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.46.01:787][918]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.01:805][918]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.04:227][ 17]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.04:245][ 17]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.06:208][ 83]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.46.06:208][ 83]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.46.06:208][ 83]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.46.06:208][ 83]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.46.07:617][157]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.07:637][157]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.09:622][229]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 38 instructions
+[2017.08.02-10.46.09:622][229]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 75 instructions
+[2017.08.02-10.46.09:622][229]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.46.09:623][229]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.46.12:643][392]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.12:661][392]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.16:079][551]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.16:096][551]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.17:975][617]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 43 instructions
+[2017.08.02-10.46.17:975][617]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 80 instructions
+[2017.08.02-10.46.17:975][617]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.46.17:975][617]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.46.44:849][390]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.08.02-10.46.48:546][604]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.08.02-10.46.48:595][605]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.08.02-10.46.50:831][724]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.08.02-10.46.57:690][373]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.46.57:707][373]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.46.57:708][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.08.02-10.46.57:743][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.46.57:749][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.08.02-10.46.57:755][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.08.02-10.47.00:421][578]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 43 instructions
+[2017.08.02-10.47.00:421][578]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 80 instructions
+[2017.08.02-10.47.00:421][578]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.47.00:421][578]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.47.03:700][962]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.47.03:718][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.47.03:742][962]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.08.02-10.47.05:537][ 81]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 43 instructions
+[2017.08.02-10.47.05:537][ 81]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 80 instructions
+[2017.08.02-10.47.05:537][ 81]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.47.05:537][ 81]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.49.53:617][644]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.49.53:634][644]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.49.55:785][813]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 43 instructions
+[2017.08.02-10.49.55:785][813]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 80 instructions
+[2017.08.02-10.49.55:785][813]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.49.55:785][813]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.08.02-10.50.00:985][425]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.00:986][425]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.00:986][425]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.00:986][425]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.00:987][425]MaterialEditorStats:Error: Error [SM5] (Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.06:240][ 48]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.06:241][ 48]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.06:241][ 48]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.06:241][ 48]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.08:202][278]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.08:202][278]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.08:202][278]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.08:203][278]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.11:308][635]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.11:309][635]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.11:309][635]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.11:309][635]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.13:701][912]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.13:701][912]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.13:701][912]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.13:701][912]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.13:711][912]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.13:711][912]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.13:711][912]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.13:711][912]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.20:099][663]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.20:099][663]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.20:099][663]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.20:100][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.26:283][398]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.26:284][398]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.26:284][398]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.26:284][398]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.31:607][ 21]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.31:607][ 21]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.31:607][ 21]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.31:607][ 21]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.36:135][552]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.36:136][552]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.36:136][552]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.36:136][552]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.38:398][818]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.38:399][818]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.50.38:399][818]LogMaterial:Warning: 	(Node FeatureLevelSwitch) Feature Level switch missing default input
+[2017.08.02-10.50.38:399][818]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.41:066][129]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.41:088][129]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.42:595][234]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.42:617][234]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.43:770][318]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.43:796][318]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.46:004][487]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.50.46:004][487]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.50.46:004][487]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.50.46:004][487]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.50.47:297][639]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.47:316][639]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.49:251][781]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.50.49:251][781]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.50.49:251][781]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.50.49:251][781]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.50.49:323][789]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.50.49:342][789]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.50.51:811][894]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.50.51:811][894]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.50.51:811][894]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.50.51:811][894]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.14:075][411]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.14:094][411]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.16:392][594]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.16:392][594]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.16:392][594]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.16:392][594]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.17:222][690]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.17:241][690]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.19:192][840]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.19:192][840]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.19:192][840]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.19:192][840]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.25:561][594]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.25:580][594]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.27:486][739]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.27:486][739]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.27:486][739]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.27:486][739]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.29:441][969]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.29:460][969]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.29:470][969]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.29:489][969]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.31:440][112]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.31:440][112]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.31:440][112]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.31:440][112]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.34:529][478]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.34:548][478]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.36:525][633]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.36:525][633]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.36:525][633]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.36:525][633]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.39:827][ 27]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.39:846][ 27]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.41:880][184]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.41:880][184]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.41:880][184]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.41:880][184]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.43:132][330]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.43:151][330]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.45:135][482]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.45:135][482]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.45:135][482]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.45:135][482]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.51.49:014][940]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.49:033][940]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.50:829][ 80]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.51.50:859][ 80]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.51.52:913][235]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.51.52:913][235]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.51.52:913][235]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.51.52:913][235]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.52.03:197][417]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionReflectionVectorWS_0, compiling. 
+[2017.08.02-10.52.17:028][988]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.17:029][988]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.17:029][988]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.17:029][988]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.17:078][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionReflectionVectorWS_0, compiling. 
+[2017.08.02-10.52.17:084][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.17:090][988]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.20:184][307]LogTexture:Display: Building textures: Foliage (BGRA8)
+[2017.08.02-10.52.20:188][307]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.20:189][307]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.20:189][307]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.20:189][307]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.20:215][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.39:264][306]LogTexture:Display: Building textures: RandomNormal2 (BGRA8)
+[2017.08.02-10.52.39:268][306]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.39:269][306]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.39:269][306]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.39:269][306]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.39:295][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.41:265][515]LogTexture:Display: Building textures: RandomMirrorDisc (BGRA8)
+[2017.08.02-10.52.41:269][515]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.41:270][515]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.41:270][515]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.41:270][515]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.41:298][515]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.44:005][804]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.52.44:008][804]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.44:009][804]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.44:009][804]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.44:012][804]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.44:012][804]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.44:012][804]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.44:012][804]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.44:040][804]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.45:320][928]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.52.45:324][928]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.45:325][928]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.45:325][928]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.45:334][928]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.45:335][928]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.45:335][928]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.45:335][928]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.45:360][928]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.45:686][960]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.52.45:691][960]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.45:691][960]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.45:691][960]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.45:694][960]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.45:695][960]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.52.45:695][960]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.52.45:695][960]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.45:719][960]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.46:670][ 68]LogEditorTransaction: Undo Edit Texture
+[2017.08.02-10.52.46:674][ 68]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.46:696][ 68]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.46:716][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.46:744][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.52.47:282][103]LogEditorTransaction: Undo Move Node
+[2017.08.02-10.52.47:288][103]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.47:314][103]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.49:517][257]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.52.49:517][257]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.52.49:517][257]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.52.49:517][257]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.52.51:823][505]LogEditorTransaction: Redo Move Node
+[2017.08.02-10.52.51:827][505]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.52.51:846][505]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.52.53:819][627]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.08.02-10.52.53:819][627]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 95 instructions
+[2017.08.02-10.52.53:819][627]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.08.02-10.52.53:819][627]MaterialEditorStats: Info Texture samplers: 7/16
+[2017.08.02-10.53.03:571][733]LogMaterial: Missing cached shader map for material Plastic_1_, compiling. 
+[2017.08.02-10.53.03:572][733]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Plastic_1_ for platform PCD3D_SM5, Default Material will be used in game.
+[2017.08.02-10.53.03:572][733]LogMaterial:Warning: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2017.08.02-10.53.03:572][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.08.02-10.53.03:596][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2017.08.02-10.53.03:609][734]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
